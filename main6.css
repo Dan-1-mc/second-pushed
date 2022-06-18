@@ -1,0 +1,55 @@
+#content{
+    display: flex;
+    justify-content: center;
+    padding: 120px;
+    
+} 
+#words{
+    height: 40vh;
+    width: 40vw;
+    background-color: rgb(34, 6, 61);
+    padding: 30px;
+    box-sizing: border-box;
+}
+#design{
+    height: 40vh;
+    width: 40vw;
+    display: inline-flex;
+}
+#black{
+    background-color: #000;
+    height: 80vh;
+    width: 80vw;
+    box-sizing: content-box;
+    justify-content: center;
+    justify-self: center;
+    margin:100px ;
+}
+#ups{
+    color: #fff;
+    font-weight: 120;
+    font-size: 20px;
+}
+#purple{
+    color: rgb(189, 13, 196);
+}
+h5{
+    color: #fff;
+    font-weight: 2;
+}
+.same{
+color: #fff;
+font-family: monospace;
+font-size: 12px;
+text-transform: uppercase;
+font-weight: 2;
+}
+h3{
+    color: #fff;
+height: 10px;
+width: 10px;
+margin-right: 45px;
+margin-left: 45px;
+display: inline-block;
+align-self: flex-start;
+}
